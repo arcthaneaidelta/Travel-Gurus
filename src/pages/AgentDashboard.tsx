@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { leads, activities } from '../mockData';
-import { Sparkles, Clock, MapPin, DollarSign, Send, Phone, Mail, MoreHorizontal, CheckCircle2, MessageSquare, ArrowUpRight, Users } from 'lucide-react';
+import { Sparkles, MapPin, DollarSign, Send, Phone, Mail, MoreHorizontal, CheckCircle2, MessageSquare, ArrowUpRight } from 'lucide-react';
 import './AgentDashboard.css';
 
 const AgentDashboard = () => {

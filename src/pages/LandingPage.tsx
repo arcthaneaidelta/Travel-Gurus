@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { MapPin, Calendar, Users, DollarSign, ChevronRight, CheckCircle2, ArrowRight, Globe, Mail, MessageCircle, Share2 } from 'lucide-react';
+import { MapPin, Calendar, Users, DollarSign, CheckCircle2, ArrowRight, Globe, Mail, MessageCircle, Share2 } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import './LandingPage.css';
 
